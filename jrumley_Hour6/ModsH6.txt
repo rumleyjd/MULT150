@@ -1,0 +1,23 @@
+ __  __     __   __     __     ______   __  __    
+/\ \/\ \   /\ "-.\ \   /\ \   /\__  _\ /\ \_\ \   
+\ \ \_\ \  \ \ \-.  \  \ \ \  \/_/\ \/ \ \____ \  
+ \ \_____\  \ \_\\"\_\  \ \_\    \ \_\  \/\_____\ 
+  \/_____/   \/_/ \/_/   \/_/     \/_/   \/_____/                       
+                                                                                                                                                                  
+
+
+A. Add multiple finish zones. See if you can place them in a way that offers the player more choices. For example, a dangerous shortcut route vs an easy but lengthier one.
+One is on the normal track, one is in the archipelago, and one is past a difficult platforming challenge.
+
+
+B. Modify the level to have more, and different hazards. (At least 2 new hazards that are not water.)
+Kill bricks and a legally distinct falling moon.
+
+
+C. Modify the game to include an element of verticality in your game to make use of the jumping mechanic! (spacebar to jump)
+There are holes in the track, as well as raised sections, islands you have to jump to, and other platforms.
+
+
+D. Modify the sky and textures to create a world based on your theme.
+A darker environment that compliments the legally distinct falling moon
+
