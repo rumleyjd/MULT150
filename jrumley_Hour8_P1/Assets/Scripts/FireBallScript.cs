@@ -1,0 +1,37 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class FireBallScript : MonoBehaviour
+{
+    // Start is called before the first frame update
+    void Start()
+    {
+        int x = TakeDamageFromFireball();
+        Debug.Log("Player Health: " + x);
+
+        int y = TakeDamageFromFireball(25);
+        Debug.Log("Player Health: " + y);
+
+        int z = TakeDamageFromFireball(30, 50);
+        Debug.Log("Player Health: " + z);
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+
+    int TakeDamageFromFireball() {
+        return 95;
+    }
+
+    int TakeDamageFromFireball(int damage) {
+        return 100 - damage;
+    }
+
+    int TakeDamageFromFireball(int damage, int playerHealth) {
+        return playerHealth - damage;
+    }
+}
